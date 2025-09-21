@@ -1,5 +1,11 @@
 # Desafio – Baixa visibilidade no apontamento de consumo 
 
+Camila Feitosa RM:558808
+Gabriel Miranda RM: 559102
+Gustavo Berlanga RM: 555298
+Leonardo Taschin RM: 554583
+Vinicius Gardim RM: 556013
+
 Este projeto resolve o desafio proposto nas imagens: simulamos o consumo diário de insumos em unidades de diagnóstico e
 organizamos os dados usando **Python**:
 - **Fila** e **Pilha**
